@@ -2,16 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Edward Bui
+- **CCID:** ebui
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Ai - to understand the idea of how adding the "update" button is implied and why it has to be that way.
+it is noted that I cited the work properly and did not use it to benefit me in any way at all for the lab.
 
 ## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
